@@ -12,3 +12,32 @@
 git clone https://github.com/achuchulev/module-random_pet.git
 cd module-random_pet'
 ```
+### Initialize terraform
+
+```
+terraform init
+```
+
+### Run terraform plan
+
+```
+terraform plan
+```
+
+### Create resource
+
+```
+terraform apply
+```
+#### Output should looks like:
+
+```
+Outputs:
+
+name = separately-rightly-vital-foxhound
+```
+### Destroy resource
+
+```
+terraform destroy
+```

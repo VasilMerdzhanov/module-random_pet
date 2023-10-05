@@ -8,7 +8,7 @@
 ## Use code
 ### Get the repo
 
-'''
+```
 git clone https://github.com/achuchulev/module-random_pet.git
 cd module-random_pet'
-'''
+```

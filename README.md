@@ -9,7 +9,7 @@
 ### Get the repo
 
 ```
-git clone https://github.com/achuchulev/module-random_pet.git
+git clone git@github.com:VasilMerdzhanov/module-random_pet.git
 cd module-random_pet'
 ```
 ### Initialize terraform
